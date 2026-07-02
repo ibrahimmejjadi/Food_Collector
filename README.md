@@ -18,7 +18,7 @@ This game was our Phase 2 submission, built as a team of 2 under a strict no-AI 
 ## 🕹️ Gameplay
 
 - You control a **rectangle** that moves in all directions
-- **Food** appears on screen — collect it to increase your score
+- **Food** appears on screen; collect it to increase your score
 - An **enemy square** chases you wherever you go
 - Every time the enemy touches you, you lose **10 health**
 - Goal: reach a score of **100**
