@@ -15,6 +15,11 @@ This game was our Phase 2 submission, built as a team of 2 under a strict no-AI 
 
 ---
 
+## 📺 Demo Video
+▶️ [Watch on YouTube](https://youtu.be/0GLTzGYctTw)
+
+---
+
 ## 🕹️ Gameplay
 
 - You control a **rectangle** that moves in all directions
