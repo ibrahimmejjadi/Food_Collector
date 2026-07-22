@@ -1,6 +1,6 @@
-# 🎮 Pygame Hackathon — Chaser Game
+# 🎮 Pygame Hackathon: Chaser Game
 
-A 2D game built with Python and Pygame in under 2 hours during a hackathon — no AI tools allowed.
+A 2D game built with Python and Pygame in under 2 hours during a hackathon; no AI tools allowed.
 
 ---
 
@@ -53,4 +53,11 @@ python Game.py
 
 ## 👥 Authors
 
-**Ibrahim Mejjadi** — [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi) · [github.com/ibrahimmejjadi](https://github.com/ibrahimmejjadi)
+**Ibrahim Mejjadi**: Digital Infrastructure Student, CMC Tangier
+
+🔗 LinkedIn: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
+
+📧 Email: ibrahim.mejjadi@gmail.com
+
+Rayan Ben Abdsselam: Student, Algorithmics International School of Programming
+
