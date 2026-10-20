@@ -1,45 +1,70 @@
-# 🎮 Pygame Hackathon: Chaser Game
+# 🍎 Food Collector: Pygame Hackathon Game
 
-A 2D game built with Python and Pygame in under 2 hours during a hackathon; no AI tools allowed.
+A 2D chaser game built with Python and Pygame in under 2 hours during a hackathon, with no AI tools allowed.
+
+*Built during my first year at CMC Tangier (Digital Infrastructure program).*
+
+![Python](https://img.shields.io/badge/Python-3-blue) ![Pygame](https://img.shields.io/badge/Pygame-library-green) ![Built in](https://img.shields.io/badge/Built%20in-2%20hours-orange) ![No AI](https://img.shields.io/badge/AI-not%20used-red)
 
 ---
 
 ## 🏆 The Hackathon
 
-This project was built at a hackathon organized by the **International School of Programming and Algorithmics** in Tangier. The event had two phases:
+This project was built at a hackathon organized by the **Algorithmics International School of Programming** in Tangier. The event had two phases:
 
-- **Phase 1** : Solo competitive coding challenge (~4 hours)
-- **Phase 2** : Team game development using Pygame (2 hours, teams of 2)
+- **Phase 1:** solo competitive coding challenge (about 4 hours)
+- **Phase 2:** team game development with Pygame (2 hours, teams of 2)
 
-This game was our Phase 2 submission, built as a team of 2 under a strict no-AI rule.
+This game was our Phase 2 submission, built under a strict no-AI rule.
 
 ---
 
 ## 📺 Demo Video
+
 ▶️ [Watch on YouTube](https://youtu.be/0GLTzGYctTw)
+
+---
+
+## 📸 Screenshots
+
+*(coming soon)*
 
 ---
 
 ## 🕹️ Gameplay
 
 - You control a **rectangle** that moves in all directions
-- **Food** appears on screen; collect it to increase your score
+- **Food** appears on screen: collect it to increase your score
 - An **enemy square** chases you wherever you go
 - Every time the enemy touches you, you lose **10 health**
-- Goal: reach a score of **100**
+- **Goal:** reach a score of **100**
 
 ---
 
 ## 🚀 How to Run
 
-### 1. Install Pygame
 ```bash
+# 1. Clone the repo
+git clone https://github.com/ibrahimmejjadi/Food_Collector.git
+cd Food_Collector
+
+# 2. Install Pygame
 pip install pygame
+
+# 3. Run the game
+python3 Game.py          # Windows: python Game.py
 ```
 
-### 2. Run the game
-```bash
-python Game.py
+---
+
+## 📁 Project Structure
+
+```
+Food_Collector/
+├── Game.py              # all game logic
+├── background0.png      # background image
+├── LICENSE
+└── README.md
 ```
 
 ---
@@ -47,17 +72,20 @@ python Game.py
 ## 🛠️ Built With
 
 - Python 3
-- `pygame` library
+- Pygame
 
 ---
 
 ## 👥 Authors
 
-**Ibrahim Mejjadi**: Digital Infrastructure Student, CMC Tangier
-
+**Ibrahim Mejjadi**: Systems & Networks Student (2nd year), CMC Tangier
 🔗 LinkedIn: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
+📧 Email: <ibrahim.mejjadi@gmail.com>
 
-📧 Email: ibrahim.mejjadi@gmail.com
+**Rayan Ben Abdsselam**: Student, Algorithmics International School of Programming
 
-Rayan Ben Abdsselam: Student, Algorithmics International School of Programming
+---
 
+## 📄 License
+
+This project is under the MIT License. See [LICENSE](LICENSE).
